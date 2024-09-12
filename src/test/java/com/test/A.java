@@ -7,6 +7,9 @@ public class A {
    public void test2() {
 		
 	}
+   public void testnew() {
+	
+	}
    public void test6() {
 	   
    }
