@@ -8,7 +8,10 @@ public class A {
 		
 	}
    public void testnew() {
-		
-  	}
+	
+	}
+   public void test6() {
+	   
+   }
 
 }
